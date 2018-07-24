@@ -1,1 +1,1 @@
-a new feature! yeah!
+a new feature!This is a new line. yeah!
